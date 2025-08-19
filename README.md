@@ -10,5 +10,5 @@ Quera is a leading competitive programming platform. However, during recent AI c
 
 **Fatemeh Mousavi**  
 Student at IUT  
-Course: Software Engineering
+Course: Software Engineering  
 Semester: Fall 2024
